@@ -281,8 +281,8 @@ defaults:
       related: true
       show_date: true
       sidebar:
-        title: 카테고리
-        nav: "sidebar-contents"
+        title: 카테고리1
+        nav: "project_sidebar"
   # _pages
   - scope:
       path: ""
@@ -297,4 +297,4 @@ defaults:
       show_date: true
       sidebar:
         title: 카테고리
-        nav: "sidebar-contents"
+        nav: "project_sidebar"
