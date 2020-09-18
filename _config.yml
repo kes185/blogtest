@@ -296,5 +296,5 @@ defaults:
       related: true
       show_date: true
       sidebar:
-        title: 카테고리
+        title: Projects Category
         nav: "project_sidebar"
