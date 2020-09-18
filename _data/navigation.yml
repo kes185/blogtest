@@ -10,6 +10,12 @@ main:
   - title: "Pages"
     url: /page-archive/
   - title: "Collections"
-    url: /collection-archive/
+      sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/
   - title: "External Link"
     url: https://google.com
