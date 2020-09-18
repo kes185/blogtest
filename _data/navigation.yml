@@ -14,8 +14,6 @@ main:
 
 
 project_sidebar:
-  
-- label: Example Menu
   - title: "Topic Modeling"
     children:
       - title: "Fairness"
