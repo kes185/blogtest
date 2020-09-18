@@ -18,7 +18,7 @@ project_sidebar:
     children:
       - title: "Fairness"
       - title: "  - 1차"
-        url: /categories/#data-handling
+        url: /_pages/fairness1
       - title: "Web-related"
         url: /categories/#web
       - title: "Pythonic"
