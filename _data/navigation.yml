@@ -1,13 +1,28 @@
 main:
-  - title: "Quick-Start Guide"
+  - title: "STUDY"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "PROJECT"
     url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "External Link"
-    url: https://google.com
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "Pages"
+#     url: /page-archive/
+#   - title: "External Link"
+#     url: https://google.com
+
+
+project_sidebar:
+  - title: "Topic Modeling"
+    children:
+      - title: "Fairness"
+        children:
+        - title: "1차"
+          url: /categories/#data-handling
+        - title: "Web-related"
+          url: /categories/#web
+        - title: "Pythonic"
+          url: /categories/#pythonic
+        - title: "etc."
+          url: /categories/#etc
