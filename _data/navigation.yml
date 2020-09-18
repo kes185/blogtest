@@ -17,12 +17,11 @@ project_sidebar:
   - title: "Topic Modeling"
     children:
       - title: "Fairness"
-        children:
-        - title: "1차"
-          url: /categories/#data-handling
-        - title: "Web-related"
-          url: /categories/#web
-        - title: "Pythonic"
-          url: /categories/#pythonic
-        - title: "etc."
-          url: /categories/#etc
+      - title: "  - 1차"
+        url: /categories/#data-handling
+      - title: "Web-related"
+        url: /categories/#web
+      - title: "Pythonic"
+        url: /categories/#pythonic
+      - title: "etc."
+        url: /categories/#etc
