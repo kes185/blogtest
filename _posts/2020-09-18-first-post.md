@@ -17,8 +17,19 @@ def print_hi(name):
 print_hi('Tom')
 ​```
 
+<div id="ldavis_example"></div>
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+      $(document).ready(function(){
+         $("#ldavis_example").load("https://raw.githubusercontent.com/lovit/lovit.github.io/master/assets/resources/pyldavis.html")
+      });
+</script>
